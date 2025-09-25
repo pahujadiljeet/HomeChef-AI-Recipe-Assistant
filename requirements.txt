@@ -1,0 +1,4 @@
+pyqt5
+groq
+python-dotenv
+pillow
